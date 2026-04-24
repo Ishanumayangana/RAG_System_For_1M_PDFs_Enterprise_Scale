@@ -55,7 +55,3 @@ A **production-ready Retrieval-Augmented Generation (RAG) system** designed to h
 | **Recall@5** | 85%+ on test queries |
 | **Throughput** | 1000 chunks/second (batch embedding) |
 
-
-
-# Run the pipeline
-python rag_pipeline.py
